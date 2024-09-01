@@ -1,0 +1,2 @@
+# loongcore
+cpu design learning
